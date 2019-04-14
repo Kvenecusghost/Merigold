@@ -1,0 +1,32 @@
+Change Component Designator: OldDesignator=DD? NewDesignator=DD1
+Change Component Designator: OldDesignator=X? NewDesignator=X2
+Change Component Designator: OldDesignator=X? NewDesignator=X3
+Added Component: Designator=X1(U.FL-R-SMT-1)
+Add component. Clean all parameters for all variants
+Change Net Name : Old Net Name=NetDD?_3 New Net Name=NetDD1_3
+Change Net Name : Old Net Name=NetDD?_4 New Net Name=NetDD1_4
+Change Net Name : Old Net Name=NetDD?_5 New Net Name=NetDD1_5
+Change Net Name : Old Net Name=NetDD?_6 New Net Name=NetDD1_6
+Change Net Name : Old Net Name=NetDD?_7 New Net Name=NetDD1_7
+Change Net Name : Old Net Name=NetDD?_8 New Net Name=NetDD1_8
+Change Net Name : Old Net Name=NetDD?_10 New Net Name=NetDD1_10
+Change Net Name : Old Net Name=NetDD?_11 New Net Name=NetDD1_11
+Change Net Name : Old Net Name=NetDD?_12 New Net Name=NetDD1_12
+Change Net Name : Old Net Name=NetDD?_13 New Net Name=NetDD1_13
+Change Net Name : Old Net Name=NetDD?_14 New Net Name=NetDD1_14
+Change Net Name : Old Net Name=NetDD?_15 New Net Name=NetDD1_15
+Added Pin To Net: NetName=NetDD1_1 Pin=DD1-1
+Added Pin To Net: NetName=NetDD1_1 Pin=X1-1
+Added Pin To Net: NetName=NetDD1_1 Pin=X2-1
+Added Net: Name=NetDD1_1
+Added Pin To Net: NetName=VCC Pin=DD1-2
+Added Pin To Net: NetName=VCC Pin=DD1-9
+Added Pin To Net: NetName=VCC Pin=DD1-16
+Added Pin To Net: NetName=VCC Pin=X1-2
+Added Pin To Net: NetName=VCC Pin=X1-3
+Added Pin To Net: NetName=VCC Pin=X2-2
+Added Pin To Net: NetName=VCC Pin=X3-1
+Added Pin To Net: NetName=VCC Pin=X3-8
+Added Net: Name=VCC
+Added Member To Class: ClassName=merigold Member=Component X1 U.FL-R-SMT-1_sch
+Added Member To Class: ClassName=merigold Member=Component X2 PLS_8

@@ -44,7 +44,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PWIUYYQX
 
 [Document2]
-DocumentPath=..\..\..\AltiumGostLibs\LibsDb.DbLib
+DocumentPath=merigold.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,7 +69,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UHSJYDNE
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Merigold\Design Rule Check - merigold.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

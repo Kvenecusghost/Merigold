@@ -1,0 +1,71 @@
+Added Component: Designator=DD?(SOJ200P1600X200-16M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "RF/IF and RFID"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "RF Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RFM95W-868S2"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PLS_8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Connector Headers and PCB Receptacles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "M20-7820842"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PLS_8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Connector Headers and PCB Receptacles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "M20-7820842"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDD?_1 Pin=DD?-1
+Added Pin To Net: NetName=NetDD?_1 Pin=X?-1
+Added Net: Name=NetDD?_1
+Added Pin To Net: NetName=NetDD?_2 Pin=DD?-2
+Added Pin To Net: NetName=NetDD?_2 Pin=X?-2
+Added Net: Name=NetDD?_2
+Added Pin To Net: NetName=NetDD?_3 Pin=DD?-3
+Added Pin To Net: NetName=NetDD?_3 Pin=X?-3
+Added Net: Name=NetDD?_3
+Added Pin To Net: NetName=NetDD?_4 Pin=DD?-4
+Added Pin To Net: NetName=NetDD?_4 Pin=X?-4
+Added Net: Name=NetDD?_4
+Added Pin To Net: NetName=NetDD?_5 Pin=DD?-5
+Added Pin To Net: NetName=NetDD?_5 Pin=X?-5
+Added Net: Name=NetDD?_5
+Added Pin To Net: NetName=NetDD?_6 Pin=DD?-6
+Added Pin To Net: NetName=NetDD?_6 Pin=X?-6
+Added Net: Name=NetDD?_6
+Added Pin To Net: NetName=NetDD?_7 Pin=DD?-7
+Added Pin To Net: NetName=NetDD?_7 Pin=X?-7
+Added Net: Name=NetDD?_7
+Added Pin To Net: NetName=NetDD?_8 Pin=DD?-8
+Added Pin To Net: NetName=NetDD?_8 Pin=X?-8
+Added Net: Name=NetDD?_8
+Added Pin To Net: NetName=NetDD?_9 Pin=DD?-9
+Added Pin To Net: NetName=NetDD?_9 Pin=X?-8
+Added Net: Name=NetDD?_9
+Added Pin To Net: NetName=NetDD?_10 Pin=DD?-10
+Added Pin To Net: NetName=NetDD?_10 Pin=X?-7
+Added Net: Name=NetDD?_10
+Added Pin To Net: NetName=NetDD?_11 Pin=DD?-11
+Added Pin To Net: NetName=NetDD?_11 Pin=X?-6
+Added Net: Name=NetDD?_11
+Added Pin To Net: NetName=NetDD?_12 Pin=DD?-12
+Added Pin To Net: NetName=NetDD?_12 Pin=X?-5
+Added Net: Name=NetDD?_12
+Added Pin To Net: NetName=NetDD?_13 Pin=DD?-13
+Added Pin To Net: NetName=NetDD?_13 Pin=X?-4
+Added Net: Name=NetDD?_13
+Added Pin To Net: NetName=NetDD?_14 Pin=DD?-14
+Added Pin To Net: NetName=NetDD?_14 Pin=X?-3
+Added Net: Name=NetDD?_14
+Added Pin To Net: NetName=NetDD?_15 Pin=DD?-15
+Added Pin To Net: NetName=NetDD?_15 Pin=X?-2
+Added Net: Name=NetDD?_15
+Added Pin To Net: NetName=NetDD?_16 Pin=DD?-16
+Added Pin To Net: NetName=NetDD?_16 Pin=X?-1
+Added Net: Name=NetDD?_16
+Added Class: Name=merigold
+Added Room: Name=merigold

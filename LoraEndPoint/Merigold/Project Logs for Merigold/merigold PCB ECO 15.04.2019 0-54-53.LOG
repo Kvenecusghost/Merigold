@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=X1 Old Footprint=U.FL-R-SMT-1 New Footprint=U.FL-R-SMT-1
+Change Net Name : Old Net Name=VCC New Net Name=GND
