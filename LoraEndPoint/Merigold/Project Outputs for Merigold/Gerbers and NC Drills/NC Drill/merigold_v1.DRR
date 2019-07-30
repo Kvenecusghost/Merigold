@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: merigold_v1.PcbDoc   22.07.2019  17:51:29
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : merigold_v1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.5mm (20mil)                                             Round             44        PTH        539.66mm (21.25inch)
+T2      0.68mm (27mil)                                            Round             2         PTH        4.88mm (0.19inch)
+T3      0.711mm (28mil)                                           Round             6         PTH        104.20mm (4.10inch)
+T4      0.783mm (31mil)                                           Round             28        PTH        76.20mm (3.00inch)
+T5      0.91mm (36mil)                                            Round             20        PTH        140.94mm (5.55inch)
+T6      1.24mm (49mil)                                            Round             4         PTH        15.50mm (0.61inch)
+T7      1.27mm (50mil)                                            Round             10        PTH        22.86mm (0.90inch)
+T8      1.3mm (51mil)                                             Round             18        PTH        152.47mm (6.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              132
+
+Total Processing Time (hh:mm:ss) : 00:00:00
