@@ -1,0 +1,97 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=+3V3 Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=+3V3 Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=+3V3 Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=+3V3 Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=DD1-2
+Removed Pin From Net: NetName=+3V3 Pin=DD1-5
+Removed Pin From Net: NetName=GND Pin=DD1-9
+Removed Pin From Net: NetName=GND Pin=DD1-16
+Removed Pin From Net: NetName=GND Pin=DD2-2
+Removed Pin From Net: NetName=+3V3 Pin=DD2-3
+Removed Pin From Net: NetName=RST Pin=DD3-1
+Removed Pin From Net: NetName=+3V3 Pin=DD3-7
+Removed Pin From Net: NetName=GND Pin=DD3-8
+Removed Pin From Net: NetName=+3V3 Pin=DD3-20
+Removed Pin From Net: NetName=GND Pin=DD3-22
+Removed Pin From Net: NetName=SDA Pin=DD3-27
+Removed Pin From Net: NetName=SCL Pin=DD3-28
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=X1-2
+Removed Pin From Net: NetName=GND Pin=X1-3
+Removed Pin From Net: NetName=GND Pin=X2-2
+Removed Pin From Net: NetName=+3V3 Pin=X2-5
+Removed Pin From Net: NetName=GND Pin=X3-1
+Removed Pin From Net: NetName=GND Pin=X3-8
+Removed Pin From Net: NetName=SDA3 Pin=X8-1
+Removed Pin From Net: NetName=SCL3 Pin=X8-2
+Removed Pin From Net: NetName=GND Pin=X12-1
+Removed Pin From Net: NetName=+3V3 Pin=X12-4
+Removed Member From Class: ClassName=merigold Member=C1
+Removed Member From Class: ClassName=merigold Member=C2
+Removed Member From Class: ClassName=merigold Member=C3
+Removed Member From Class: ClassName=merigold Member=C4
+Removed Member From Class: ClassName=merigold Member=C5
+Removed Member From Class: ClassName=merigold Member=C6
+Removed Member From Class: ClassName=merigold Member=C7
+Removed Member From Class: ClassName=merigold Member=C8
+Removed Member From Class: ClassName=merigold Member=C9
+Removed Member From Class: ClassName=merigold Member=DD1
+Removed Member From Class: ClassName=merigold Member=DD2
+Removed Member From Class: ClassName=merigold Member=DD3
+Removed Member From Class: ClassName=merigold Member=MISO
+Removed Member From Class: ClassName=merigold Member=MOSI
+Removed Member From Class: ClassName=merigold Member=R3
+Removed Member From Class: ClassName=merigold Member=R4
+Removed Member From Class: ClassName=merigold Member=R5
+Removed Member From Class: ClassName=merigold Member=R6
+Removed Member From Class: ClassName=merigold Member=SCK
+Removed Member From Class: ClassName=merigold Member=VD1
+Removed Member From Class: ClassName=merigold Member=VD2
+Removed Member From Class: ClassName=merigold Member=X1
+Removed Member From Class: ClassName=merigold Member=X2
+Removed Member From Class: ClassName=merigold Member=X3
+Removed Member From Class: ClassName=merigold Member=X12
+Removed Member From Class: ClassName=merigold Member=ZQ1
+Added Component: Designator=A?(LORA32U4 II)
+Add component (AddParameter): Name = "Manufacturer"; Value = "BSFrance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "Lora32U4 II ver 1.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TH"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PLS_16_FEMALE)
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1-534237-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TH"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=X?(PLS_12_FEMALE)
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1-534237-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TH"; Value = "1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=X?-2
+Added Pin To Net: NetName=GND Pin=X?-4
+Added Pin To Net: NetName=RST Pin=X?-7
+Added Pin To Net: NetName=SCL Pin=X?-11
+Added Pin To Net: NetName=SDA Pin=X?-12
+Change Net Name : Old Net Name=RST New Net Name=BTN
+Added Pin To Net: NetName=GREEN Pin=R10-2
+Added Pin To Net: NetName=GREEN Pin=X?-8
+Added Net: Name=GREEN
+Added Pin To Net: NetName=LEAF_WETNESS_ANALOG Pin=X8-1
+Added Pin To Net: NetName=LEAF_WETNESS_ANALOG Pin=X?-5
+Added Net: Name=LEAF_WETNESS_ANALOG
+Added Pin To Net: NetName=RED Pin=R9-2
+Added Pin To Net: NetName=RED Pin=X?-9
+Added Net: Name=RED
+Added Pin To Net: NetName=VBAT Pin=X4-1
+Added Pin To Net: NetName=VBAT Pin=X?-1
+Added Net: Name=VBAT
+Added Member To Class: ClassName=merigold Member=Component A? LORA32U4 II
+Added Member To Class: ClassName=merigold Member=Component X? PLS_16_FEMALE
+Added Member To Class: ClassName=merigold Member=Component X? PLS_12_FEMALE

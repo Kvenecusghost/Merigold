@@ -1,0 +1,29 @@
+Change Component Footprint: Designator=X1 Old Footprint=2EDGV-5.0-04P New Footprint=MOLEX_0397000904
+Change Component Footprint: Designator=X2 Old Footprint=2EDGV-5.0-04P New Footprint=MOLEX_0397000904
+Change Component Footprint: Designator=X3 Old Footprint=2EDGV-5.0-04P New Footprint=MOLEX_0397000904
+Change Component Footprint: Designator=X4 Old Footprint=2EDGV-5.0-04P New Footprint=MOLEX_0397000904
+Change Component Comment : Designator=X1 Old Comment=2EDGV-5.0-04P New Comment=MOLEX_0397000904
+Change Component Comment : Designator=X2 Old Comment=2EDGV-5.0-04P New Comment=MOLEX_0397000904
+Change Component Comment : Designator=X3 Old Comment=2EDGV-5.0-04P New Comment=MOLEX_0397000904
+Change Component Comment : Designator=X4 Old Comment=2EDGV-5.0-04P New Comment=MOLEX_0397000904
+Change component parameters: Designator = "X1" ("X1"); Footprint = "2EDGV-5.0-04P"; UniqueID = "\JFCIVXRI" ("\JFCIVXRI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0397000904"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM10641-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X2" ("X2"); Footprint = "2EDGV-5.0-04P"; UniqueID = "\DSQMQEST" ("\DSQMQEST")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0397000904"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM10641-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X3" ("X3"); Footprint = "2EDGV-5.0-04P"; UniqueID = "\GRQKQHLO" ("\GRQKQHLO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0397000904"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM10641-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X4" ("X4"); Footprint = "2EDGV-5.0-04P"; UniqueID = "\HRFYJGNV" ("\HRFYJGNV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0397000904"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "WM10641-ND"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=merigold Member=Component X9 PLS_16_FEMALE

@@ -1,0 +1,8 @@
+Change component parameters: Designator = "R1"; Footprint = "RESC3216X07N/1206"; UniqueID = "\UFXBACFW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ8ENF1002V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Power"; Value = "0.25 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10 kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance (%)"; Value = "±1 %"; VariantName = "[No Variations]"
+Added Room: Name=merigold

@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC8_1
+Added Member To Class: ClassName=merigold Member=Component C7 22P50V_CAPC
+Added Room: Name=merigold

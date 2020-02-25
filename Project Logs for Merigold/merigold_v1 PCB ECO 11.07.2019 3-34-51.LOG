@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=+3V3 Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=NetC5_2 Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=+3V3 Pin=C6-2
+Change Component Footprint: Designator=C3 Old Footprint=CAPC1508X09M/0603 New Footprint=CAPC2012X14M/0805
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1508X09M/0603 New Footprint=CAPC2012X14M/0805
+Change Component Footprint: Designator=C5 Old Footprint=CAPC1508X09M/0603 New Footprint=CAPC2012X14M/0805
+Change Component Footprint: Designator=C6 Old Footprint=CAPC1508X09M/0603 New Footprint=CAPC2012X14M/0805
+Change Component Comment : Designator=C3 Old Comment=1U6V3_CAPC New Comment=1U16V_CAPC
+Change Component Comment : Designator=C4 Old Comment=1U6V3_CAPC New Comment=1U16V_CAPC
+Change Component Comment : Designator=C5 Old Comment=1U6V3_CAPC New Comment=1U16V_CAPC
+Change Component Comment : Designator=C6 Old Comment=1U6V3_CAPC New Comment=1U16V_CAPC
+Change component parameters: Designator = "C3"; Footprint = "CAPC2012X14M/0805"; UniqueID = "\KOXYRXFN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM21BR71C105KA01K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "CAPC2012X14M/0805"; UniqueID = "\OSTABINF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM21BR71C105KA01K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "CAPC2012X14M/0805"; UniqueID = "\KYXMIUOV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM21BR71C105KA01K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "CAPC2012X14M/0805"; UniqueID = "\HGCRYWHC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM21BR71C105KA01K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+3V3 Pin=C3-2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=+3V3 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC5_1

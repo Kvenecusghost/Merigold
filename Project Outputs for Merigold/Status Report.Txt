@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [merigold_v3.PcbDoc]
+   Generated File[Pick Place for merigold_v3.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 22:57:37 On 22.02.2020

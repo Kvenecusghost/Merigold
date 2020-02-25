@@ -1,0 +1,4 @@
+Added Component: Designator=RST(TH_TP)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=RST Pin=RST-1
+Added Member To Class: ClassName=merigold Member=Component RST TP_TH

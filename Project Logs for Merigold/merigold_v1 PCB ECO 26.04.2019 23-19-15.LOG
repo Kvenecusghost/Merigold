@@ -1,0 +1,33 @@
+Added Component: Designator=C5(CAPC1508X09M/0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "06036D105KAT2A"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC1508X09M/0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "1 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kyocera AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "06036D105KAT2A"; VariantName = "[No Variations]"
+Added Component: Designator=DD?(PDIP28)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip / Atmel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ATMEGA328P-PU"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+3V3 Pin=C6-2
+Added Pin To Net: NetName=RST Pin=DD?-1
+Added Pin To Net: NetName=+3V3 Pin=DD?-7
+Added Pin To Net: NetName=GND Pin=DD?-8
+Added Pin To Net: NetName=NetC5_1 Pin=DD?-9
+Added Pin To Net: NetName=NetC6_1 Pin=DD?-10
+Added Pin To Net: NetName=+3V3 Pin=DD?-20
+Added Pin To Net: NetName=GND Pin=DD?-22
+Added Pin To Net: NetName=SDA Pin=DD?-27
+Added Pin To Net: NetName=SCL Pin=DD?-28
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=DD?-21
+Added Net: Name=NetC5_2
+Added Member To Class: ClassName=merigold Member=Component C5 1U6V3_CAPC
+Added Member To Class: ClassName=merigold Member=Component C6 1U6V3_CAPC
+Added Member To Class: ClassName=merigold Member=Component DD? ATMEGA328
+Added Room: Name=merigold

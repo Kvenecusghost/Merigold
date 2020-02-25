@@ -1,0 +1,7 @@
+Change Component Description : Designator=X1 Old Description= New Description=CONN U.FL RCPT STR 50 OHM SMD
+Change component parameters: Designator = "X1"; Footprint = "U.FL-R-SMT-1"; UniqueID = "\FNPXPNBL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Category"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Hirose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "U.FL-R-SMT-1(10)"; VariantName = "[No Variations]"
+Added Room: Name=merigold

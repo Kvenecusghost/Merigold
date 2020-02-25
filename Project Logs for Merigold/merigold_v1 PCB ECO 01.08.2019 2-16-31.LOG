@@ -1,0 +1,7 @@
+Added Component: Designator=VD2(DO-204AL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiwan Semiconductor Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "HER107G R0G"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR2_2 Pin=VD2-A
+Added Pin To Net: NetName=NetC1_2 Pin=VD2-K
+Added Member To Class: ClassName=merigold Member=Component VD2 HER107G R0G

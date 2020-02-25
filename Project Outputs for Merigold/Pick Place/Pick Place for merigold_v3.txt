@@ -1,0 +1,34 @@
+Altium Designer Pick and Place Locations
+D:\Pr_Altium\Merigold_0001\Project Outputs for Merigold\Pick Place\Pick Place for merigold_v3.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       22.02.20
+Time:       22:57
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment               Layer       Footprint          Center-X(mil) Center-Y(mil) Rotation Description                        
+X10        MOLEX_0397000904      TopLayer    MOLEX_0397000904   4924.724      6800.000      360      "TERM BLK 4POS TOP ENTRY 5MM PCB"  
+X4         MOLEX_0397000904      TopLayer    MOLEX_0397000904   5868.425      6800.000      360      "TERM BLK 4POS TOP ENTRY 5MM PCB"  
+X3         MOLEX_0397000904      TopLayer    MOLEX_0397000904   4000.433      6054.882      180      "TERM BLK 4POS TOP ENTRY 5MM PCB"  
+X2         MOLEX_0397000904      TopLayer    MOLEX_0397000904   4000.433      5354.882      180      "TERM BLK 4POS TOP ENTRY 5MM PCB"  
+X1         MOLEX_0397000904      TopLayer    MOLEX_0397000904   3997.284      4654.882      180      "TERM BLK 4POS TOP ENTRY 5MM PCB"  
+X7         2EDGV-5.0-02P         TopLayer    2EDGV-5.0-02P      6975.433      4354.882      180      "TERM BLOCK HDR 2POS VERT 5MM"     
+SB1        BTN_TACTILE_6X6       TopLayer    BTN_TACTILE_6X6    6079.961      4393.465      180      "SWITCH TACTILE SPST-NO 0.05A 24V" 
+R3         10K1206               BottomLayer RESC3216X07N/1206  4672.008      5044.882      360      "RES SMD 10K OHM 1% 1/4W 1206"     
+R6         10K1206               BottomLayer RESC3216X07N/1206  6002.008      4654.882      360      "RES SMD 10K OHM 1% 1/4W 1206"     
+DD1        TCA9548A              BottomLayer TSOP65P640X120-24M 4672.008      5294.882      360      "IC I2C SW 8CH W/RESET 24TSSOP"    
+R1         10K1206               BottomLayer RESC3216X07N/1206  4667.008      5594.882      90       "RES SMD 10K OHM 1% 1/4W 1206"     
+R2         10K1206               BottomLayer RESC3216X07N/1206  4772.008      5594.882      90       "RES SMD 10K OHM 1% 1/4W 1206"     
+R5         200R1206              BottomLayer RESC3216X07N/1206  5527.008      4604.882      90       "RES SMD 200 OHM 1% 1/4W 1206"     
+R4         200R1206              BottomLayer RESC3216X07N/1206  5627.008      4604.882      90       "RES SMD 200 OHM 1% 1/4W 1206"     
+VD1        LED_SSL-LX5093GD-TR26 TopLayer    LED500             5427.008      4379.882      270      "LED GREEN DIFFUSED T-1 3/4 T/H"   
+VD2        LED_SSL-LX5093GD-TR26 TopLayer    LED500             5702.008      4379.882      270      "LED GREEN DIFFUSED T-1 3/4 T/H"   
+A1         "LORA32U4 II"         TopLayer    LORA32U4_II        0.000         0.000         270      "LORA 32U4 II 868MHZ"              
+X5         PLS_16_FEMALE         TopLayer    PLS_16_FEMALE      5977.008      5804.882      270      "CONN RCPT 16POS 0.1 GOLD PCB"     
+X6         PLS_12_FEMALE         TopLayer    PLS_12_FEMALE      5777.008      4904.882      270      "CONN RCPT 12POS 0.1 GOLD PCB"     
+X9         PLS_16_FEMALE         TopLayer    PLS_16_FEMALE      5977.008      5904.882      270      "CONN RCPT 16POS 0.1 GOLD PCB"     
+X8         PLS_12_FEMALE         TopLayer    PLS_12_FEMALE      5777.008      4804.882      270      "CONN RCPT 12POS 0.1 GOLD PCB"     

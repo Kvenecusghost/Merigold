@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=X1 Old Footprint=U.FL-R-SMT-1 New Footprint=U.FL-R-SMT-1
+Change Component Designator: OldDesignator=X? NewDesignator=X4
+Added Room: Name=merigold

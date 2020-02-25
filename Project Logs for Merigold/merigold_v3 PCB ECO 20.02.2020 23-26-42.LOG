@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=merigold Member=R7
+Removed Member From Class: ClassName=merigold Member=R8
+Removed Member From Class: ClassName=merigold Member=X8
+Change Component Designator: OldDesignator=+3V3 NewDesignator=+1
+Change Component Designator: OldDesignator=A? NewDesignator=A1
+Change Component Designator: OldDesignator=DD4 NewDesignator=DD1
+Change Component Designator: OldDesignator=GND NewDesignator=GND1
+Change Component Designator: OldDesignator=R1 NewDesignator=R6
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R7 NewDesignator=R1
+Change Component Designator: OldDesignator=R8 NewDesignator=R2
+Change Component Designator: OldDesignator=R9 NewDesignator=R5
+Change Component Designator: OldDesignator=R10 NewDesignator=R4
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP2
+Change Component Designator: OldDesignator=VD3 NewDesignator=VD1
+Change Component Designator: OldDesignator=VD4 NewDesignator=VD2
+Change Component Designator: OldDesignator=X4 NewDesignator=X7
+Change Component Designator: OldDesignator=X5 NewDesignator=X1
+Change Component Designator: OldDesignator=X6 NewDesignator=X2
+Change Component Designator: OldDesignator=X7 NewDesignator=X3
+Change Component Designator: OldDesignator=X8 NewDesignator=X4
+Change Component Designator: OldDesignator=X? NewDesignator=X5
+Change Component Designator: OldDesignator=X? NewDesignator=X6
+Change Net Name : Old Net Name=NetDD4_3 New Net Name=NetDD1_3
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR4_1
+Added Member To Class: ClassName=merigold Member=Component R3 10K1206
+Added Member To Class: ClassName=merigold Member=Component R6 10K1206
+Added Member To Class: ClassName=merigold Member=Component X5 PLS_16_FEMALE
+Added Member To Class: ClassName=merigold Member=Component X7 2EDGV-5.0-02P
